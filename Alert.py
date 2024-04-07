@@ -48,3 +48,4 @@ for index, row in df.iterrows():
 
     # Send SMS with weather alert
     send_sms(weather_alert, phone_number)
+    
